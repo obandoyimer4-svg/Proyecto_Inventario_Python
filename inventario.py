@@ -10,3 +10,7 @@ print("\n--- INFORMACIÓN DEL PRODUCTO ---")
 print("Producto:", producto)
 print("Cantidad:", cantidad)
 print("Precio: $", precio)
+
+total = cantidad * precio
+
+print("Valor total:", total)
